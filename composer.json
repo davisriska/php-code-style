@@ -1,5 +1,5 @@
 {
-    "name": "ely/php-code-style",
+    "name": "davisriska/php-code-style",
     "description": "Set of PHP-CS-Fixer rules used in the development of Ely.by PHP projects",
     "keywords": ["php-cs-fixer", "code style"],
     "homepage": "https://github.com/elyby/php-code-style",
